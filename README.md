@@ -9,13 +9,13 @@
 
 This C++ project demonstrates Huffman encoding for text files. It includes an implementation of the Huffman algorithm for encoding and decoding text data. Additionally, the project provides functionality to discover and read text files in the current directory, allowing users to encode the contents using the Huffman algorithm.
 
-## Huffman Encoding Features
+## 🔭 Huffman Encoding Features
 
 - **Huffman Encoding**: The project contains a Huffman encoding algorithm to compress and decompress text data efficiently.
 - **File Discovery**: The program can identify and display the number of text files in the current directory.
 - **Read and Encode Files**: Text files found in the directory can be opened, read, and encoded using Huffman encoding.
 
-## Installation
+## ⬇️ Installation
 
 To compile and run this project, ensure you have a C++ compiler installed on your system. If you are using g++, you can compile the program by running the following command in the terminal:
 
@@ -31,7 +31,7 @@ To run the program, use the following command:
 ./huffman_encoder.exe
 ```
 
-## Usage
+## 🚀 Usage
 
 When you run the program, it will perform the following operations:
 
