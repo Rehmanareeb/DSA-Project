@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <queue>
 #include <typeinfo>
+//#include "encoding.h"
 using namespace std;
 
 class HuffTree

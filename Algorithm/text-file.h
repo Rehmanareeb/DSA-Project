@@ -6,6 +6,6 @@
 #include <string.h>
 #include <sys/stat.h>
 
-int count_txt_files();
+int Checking_For_Text_Files();
 
 #endif // TEXT_FILE_H

@@ -3,7 +3,7 @@
 #include <string.h>
 #include <sys/stat.h>
 
-int main()
+int Checking_For_Text_Files()
 {
     int txtFileCount = 0;
     DIR *d;
