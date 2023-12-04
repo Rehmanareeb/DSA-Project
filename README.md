@@ -53,18 +53,21 @@ The provided Huffman encoding algorithm includes the following components:
 ## Example Usage
 
 ```cpp
-#include "encoding.h"
-#include "text-file.h"
+#include "Algorithm/encoding.h"
+
+#include "Text-File-Handling/text-file.h"
 #include <string>
 
 using namespace std;
 
+// Path: encoding.cpp
 int main()
 {
-    
-     Checking_For_Text_Files(); //A single funtion call as everything is abstracted.
+
+    Checking_For_Text_Files();
     return 0;
 }
+
 ```
 
 
