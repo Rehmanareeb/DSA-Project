@@ -1,6 +1,7 @@
 # File Zipping of Text-Files using Huffman encoding 
 
-<img src = "https://www.computerhope.com/jargon/z/zip.png " width = "100"/>
+<img src = "https://www.computerhope.com/jargon/z/zip.png" width = "100"/>
+
 
 ---
 
