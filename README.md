@@ -20,7 +20,7 @@ This C++ project demonstrates Huffman encoding for text files. It includes an im
 To compile and run this project, ensure you have a C++ compiler installed on your system. If you are using g++, you can compile the program by running the following command in the terminal:
 
 ```bash
-  g++ main.cpp text-file.cpp encoding.cpp -o huffman_encoder
+ g++ .\main.cpp .\Algorithm\encoding.cpp .\Text-File-Handling\text-file.cpp
 ```
 
 This will compile the project and create an executable file named `huffman_encoder`.
